@@ -14,7 +14,7 @@
         "php": "^8.0",
         "commerceguys/addressing": "^1",
         "doctrine/orm": "^2.6",
-        "symfony/form": "^4.4 | ^5.3 | ^ 6.0",
+        "symfony/form": "^4.4 | ^5.3 | ^6.0",
         "symfony/framework-bundle": "^4.4 | ^5.3| ^6.0"
     },
     "require-dev": {
